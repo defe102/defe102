@@ -1,9 +1,15 @@
 # 💫 About Me:
+
 🔭 I work in the automation field, but in my spare time I create websites. I would like to work 100% remotely / Eu trabalho na área da automação mas, nas horas vagas eu crio websites. Gostaria de trabalhar 100% remoto<br>
+
 👯 I always try to work in a team with my friends, because 2 heads work better than 1 / Procuro sempre trabalhar em equipe com meus amigos, pois 2 cabeças trabalham melhor que 1;<br>
+
 🤝 I always try to be helping my client as much as possible so that he has his work recognized, in the same way I went through and was helped / Procuro sempre estar ajudando o meu cliente o máximo possível para que ele tenha seu trabalho reconhecido, da mesma maneira que passei e fui ajudado;<br>
+
 🌱 My knowledge is: HTML, CSS, JavaScript (basic) and C Language (studying). I'm studying "Superior in Technology in Computer Networks" at UNICESUMAR, and I'm improving my English with everyday things (films, series, videos and online courses) / Meus conhecimentos são : HTML,CSS, JavaScript (básico) e Linguagem C (estudando). Estou estudando "Superior em Tecnologia em Redes de Computadores" na instituição UNICESUMAR, e estou aperfeiçoando o inglês com coisas do meu cotidiano (filmes, séries ,vídeos e cursos online);<br>
+
 💬 I've loved technology since my first job, which was an electronic board company. Since then, I've had contact with CI's programming, but my passion for the computer and programming came in my youth / Eu amo a área de tecnologia desde meu primeiro emprego, que era uma empresa de placas eletrônicas. Desde ali, eu tive o contato com a programação de CI's, mas minha paixão pelo computador e programação veio na adolescência;<br>
+
 ⚡ I love playing the guitar, I like to make the environment around me happy. Whenever someone needs help, I always do my best to help. I care about the next and I do everything to help those who need it / Amo tocar violão, gosto de deixar o ambiente a minha volta, feliz. Sempre que alguém precisa de ajuda, eu sempre faço o máximo para ajudar. Me preocupo com o próximo e faço de tudo para ajudar quem precisa.
 
 
